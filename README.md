@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielRioo/Curso_em_Video)
 # Cursos do Canal do Youtube 'Curso em Video'
 Professor: Gustavo Guanabara https://www.youtube.com/user/cursosemvideo
 

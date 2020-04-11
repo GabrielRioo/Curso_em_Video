@@ -1,3 +1,6 @@
 ## Aula sobre MarkDown
-**Negrito**
-*Itálico*
+* **Negrito**
+* __Negrito2__
+* *Itálico*
+* _Italico2_
+* ~Riscado~

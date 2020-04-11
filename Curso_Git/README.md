@@ -24,3 +24,6 @@
 - [x] Criar Pagina Principal
 - [ ] Criar pagina da loja
 - [ ] Receber pagamentos
+
+Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
+

@@ -1,6 +1,6 @@
 ## Aula sobre MarkDown
 ##### [MarkDown - PDF](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) 
-Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
+###### Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
 ---
 * **Negrito**
 * __Negrito2__

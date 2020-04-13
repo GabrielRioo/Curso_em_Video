@@ -1,4 +1,5 @@
 ## Aula sobre MarkDown
+### Todos Direitos Reservados: Gustavo Guanabara
 ##### [MarkDown - PDF](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) 
 ###### Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
 ---

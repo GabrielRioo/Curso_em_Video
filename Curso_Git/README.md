@@ -27,3 +27,9 @@
 
 Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
 
+#### Tabelas:
+Numero | Nome | Nota
+---|---|---
+1 | Gabriel | 9,5
+2 | Camila | 8,5
+3 | Leonardo | 10,0

@@ -45,4 +45,9 @@ if num % 2 == 0:
 else:
    print(f'O valor {num} é IMPAR')
 ```
+#### Emotes:
+:hand: :monkey: :octocat: 
+- [Site de Emoji para por em Issues](emojipedia.org)
+- [Respositorio de Emojis - ikatyang ](https://github.com/ikatyang/emoji-cheat-sheet)
+
 

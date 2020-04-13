@@ -33,3 +33,16 @@ Numero | Nome | Nota
 1 | Gabriel | 9,5
 2 | Camila | 8,5
 3 | Leonardo | 10,0
+
+#### Definir um comando:
+`document.getElementById()` - Javascript
+
+#### Definir uma linha de Código: 
+```
+num = int(input('Digite um valor'))
+if num % 2 == 0:
+   print(f'O valor {num} é PAR')
+else:
+   print(f'O valor {num} é IMPAR')
+```
+

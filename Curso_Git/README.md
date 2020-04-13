@@ -1,5 +1,6 @@
 ## Aula sobre MarkDown
 ##### [MarkDown - PDF](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) 
+Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
 ---
 * **Negrito**
 * __Negrito2__
@@ -26,8 +27,6 @@
 - [ ] Criar pagina da loja
 - [ ] Receber pagamentos
 
-Meu GitHub [GabrielRioo](https://github.com/GabrielRioo)
-
 #### Tabelas:
 Numero | Nome | Nota
 ---|---|---
@@ -48,7 +47,7 @@ else:
 ```
 #### Emotes:
 :hand: :monkey: :octocat: 
-- [Site de Emoji para por em Issues](emojipedia.org)
+- [Site de Emoji para por em Issues](https://emojipedia.org/)
 - [Respositorio de Emojis - ikatyang ](https://github.com/ikatyang/emoji-cheat-sheet)
 
 

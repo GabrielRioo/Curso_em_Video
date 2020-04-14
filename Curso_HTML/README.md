@@ -19,3 +19,4 @@ AULA | TEMPO | LINK | O QUE ENSINOU
 11 | 13:18 | [Listas em HTML5 com OL e UL](https://www.youtube.com/watch?v=EbVG8_5Pyz0&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=13) | tag **nav**/ **ol** (type="1"/"a"/"A"/"i"/"I")(start="3") / **ul**(type="square"/"circle"/"disc") / **li**
 12 | 10:50 | [Links em HTML5](https://www.youtube.com/watch?v=WX9vucyEcJs&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=14) | tag **a**(href="http://...")(target="blank"/"self")
 13 | 11:04 | [Menu com CSS3](https://www.youtube.com/watch?v=kU7b9olDWns&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=15) | **list-style**(tira os identificadores das listas)/ **text-transform**(uppercase)/ **display**(inline-block(lado a lado)/ block(pode flutuar pela tela)/ none(tira da tela))/ **padding**/ **margin**/
+14 | 12:49 | [Efeitos visuais em CSS3](https://www.youtube.com/watch?v=fN3Gp9DOI7U&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=16) | [prefixr](http://prefixr.com/) / **text-decoration**(none)

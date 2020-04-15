@@ -3,7 +3,7 @@
 #### Folder em uso para o curso: [Google_Glass](https://github.com/GabrielRioo/Curso_em_Video/tree/master/Curso_HTML/Google_Glass)
 ---
 * Para ver a escala **RGB**/ CMYK/ HSV/ HSL/ **HEX**- [Seletor de cores](https://www.google.com/search?rlz=1C1GCEU_pt-BRBR848BR848&sxsrf=ALeKk01ETLqWMLI-QPxxOvzF0D0TQ1AYrg%3A1586876784354&ei=cNGVXqKbFc6j5OUP4JuUqA8&q=seletor+de+cores&oq=seletor+de+cores&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEc6BAgjECc6BAgAEEM6BQgAEIMBSi8IFxIrMGczODVnNTA0ZzM4MmcxMjJnNDE0ZzBnMzQ3ZzM5MGczODRnMzc5ZzQwMEobCBgSFzBnMWcxZzFnNGcxZzBnMWcxZzFnNWcxUMZ3WP-QAWC3kgFoAXADeAKAAfMDiAHTMZIBBjMtMTEuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiik6LYmOjoAhXOEbkGHeANBfUQ4dUDCAw&uact=5)
-* Para ver mais fontes [Fontes Google](https://fonts.google.com/)
+* Para ver mais fontes: [Fontes Google](https://fonts.google.com/)
    * Procurar pela Fonte
    * Escolher o Estilo
    * Embed
@@ -29,3 +29,4 @@ AULA | TEMPO | LINK | O QUE ENSINOU
 15 | 13:10 | [Formatação de Interfaces com HTML5](https://www.youtube.com/watch?v=mSmz6jy4YbI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=17) | **margin:** auto / **padding** / Posição Oculos
 16 | 14:26 | [Cabeçalho em CSS3](https://www.youtube.com/watch?v=1a5lQhBW2PI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=18) | **border-bottom**(1px #606060 solid)/ **background: url("folder/.jpg") no-repeat 0px(horizontal) 100px(vertical);**/ **text-shadow**/ **font-family**
 17 | 11:27 | [Fontes em CSS3](https://www.youtube.com/watch?v=tcrxYeE-67A&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=19) | **@font-face{font-family: ; src: url("");}**/ Fonte do Google
+18 | 18:34 | [Semântica em HTML5](https://www.youtube.com/watch?v=unvKmK3wZEQ&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=20) | **section**/ **aside**/ **footer**/ **float**(right, left...)-USADO COM DISPLAY BLOCK/ **clear: both**/ Botando lado a lado os textos

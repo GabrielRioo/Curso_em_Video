@@ -139,11 +139,38 @@ table#tabelaspec td {
     padding: 10px;
 }
 
+table#tabelaspec td.ce {
+    text-align: right;
+    background-color: #606060;
+    color: #ffffff;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+table#tabelaspec td.cd {
+    text-align: left;
+    background-color: #cecece;
+    font-weight: 500;
+}
+
+table#tabelaspec caption {
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+}
+
+table#tabelaspec caption span {
+    display: block;
+    float: right;
+    color: #000000;
+    font-size: 8pt;
+    margin-top: 10px;
+}
+
 aside#lateral {
     display: block;
     width: 300px;
     float: right;
-    
 }
 
 footer#rodape {

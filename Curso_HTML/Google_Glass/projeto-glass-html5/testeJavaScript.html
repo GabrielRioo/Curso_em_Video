@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste JavaScript</title>
     <script>
+        var quebrada = false;
         function mudaLampada(tipo){
             if (tipo == 1){
                 arquivo = "_imagens/lampada-acesa.jpg";
@@ -14,8 +15,14 @@
             }
             if (tipo == 3) {
                 arquivo = "_imagens/lampada-quebrada.jpg";
+                
             }
-            document.getElementById("luz").src = arquivo;
+            if (!quebrada){
+                document.getElementById("luz").src = arquivo;
+                if (tipo == 3){
+                    quebrada = true;
+                }
+            }
         }
         // function apagaLampada(){
         //     document.getElementById("luz").src = "_imagens/lampada-apagada.jpg";

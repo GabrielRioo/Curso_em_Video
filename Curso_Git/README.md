@@ -25,6 +25,7 @@ git init | Cria um novo repositório na pasta aberta(arquivo .git)
 git remote | Verifica se existe um repositório remoto
 git remote add origin _https://..._ | Linka seu repositório local com o GitHub
 git push -u origin master | Envia o repositório para o GitHub
+git diff _nomeArquivo_ | Mostra as alterações feita no Arquivo (**antes de adicionar**) 
 **git add _nomeAquivo_** | Adiciona as modificações a serem "Comitadas"
 git reset HEAD | Remove um arquivo que ja foi adicionado(_caso não queira commita-lo ou caso queira altera-lo_)
 **git commit -m "_seuComentario_"** | Adiciona um comentário para a modificação

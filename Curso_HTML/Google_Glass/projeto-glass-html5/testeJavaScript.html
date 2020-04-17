@@ -5,20 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste JavaScript</title>
     <script>
-        function acendeLampada(){
-            document.getElementById("luz").src = "_imagens/lampada-acesa.jpg";
+        function mudaLampada(tipo){
+            if (tipo == 1){
+                arquivo = "_imagens/lampada-acesa.jpg";
+            }
+            if (tipo == 2){
+                arquivo = "_imagens/lampada-apagada.jpg";
+            }
+            if (tipo == 3) {
+                arquivo = "_imagens/lampada-quebrada.jpg";
+            }
+            document.getElementById("luz").src = arquivo;
         }
-        function apagaLampada(){
-            document.getElementById("luz").src = "_imagens/lampada-apagada.jpg";
-        }
-        function quebraLampada(){
-            document.getElementById("luz").src = "_imagens/lampada-quebrada.jpg";
-        }
+        // function apagaLampada(){
+        //     document.getElementById("luz").src = "_imagens/lampada-apagada.jpg";
+        // }
+        // function quebraLampada(){
+        //     document.getElementById("luz").src = "_imagens/lampada-quebrada.jpg";
+        // }
     </script>
 </head>
 <body>
     <h1>Testando JavaScript</h1>
-    <img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="acendeLampada()" onmouseout="apagaLampada()" onclick="quebraLampada()">
+    <img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada(1)" onmouseout="mudaLampada(2)" onclick="mudaLampada(3)">
     <!-- <script>
         // Envia um Alerta na tela ao carrega-la
         // alert("Olá, Mundo!!"); 

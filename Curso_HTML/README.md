@@ -34,3 +34,4 @@ AULA | TEMPO | LINK | O QUE ENSINOU
 20 | 15:00 | [Estilos CSS para Tabelas em HTML5](https://www.youtube.com/watch?v=-RCsJvfFKgw&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=22) | Fromatando mais a Tabela
 21 | 14:32 | [Interfaces em HTML5](https://www.youtube.com/watch?v=QMAe5GMT_Ew&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=23) | **article**/ formatação do **aside** e **h1, h2, h3**
 22 | 19:43 | [Introdução ao JavaScript](https://www.youtube.com/watch?v=jXPU0uAzmYY&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=24) | Inicio com JavaScript - História/ **script**/ **alert("Olá, Mundo!");**/ **document.write("")** (escreve algo como se fosse um paragrafo)/ **Date()**
+23 | 15:53 | [JavaScript com Objetos](https://www.youtube.com/watch?v=zfrX_VZ5Fb4&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=25) | **function** acendeLampada()/ **onclick="acendeLampada()"**/ **onmousemove="acendeLampada()"**/ **document.getElementById("")**/ **onmouseout=**"apagaLampada()"

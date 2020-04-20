@@ -2,6 +2,10 @@
 ### Curso em video - [Gustavo Guanabara](https://github.com/gustavoguanabara)
 #### Folder em uso para o curso: [Google_Glass](https://github.com/GabrielRioo/Curso_em_Video/tree/master/Curso_HTML/Google_Glass)
 ---
+* Tag Wrap - Extenção Visual Studio Code: 
+   * `Ctrl` + `P`
+   * Instalar `ext install htmltagwrap`
+   * Selecionar Texto e `Alt` + `W`
 * Para ver a escala **RGB**/ CMYK/ HSV/ HSL/ **HEX**- [Seletor de cores](https://www.google.com/search?rlz=1C1GCEU_pt-BRBR848BR848&sxsrf=ALeKk01ETLqWMLI-QPxxOvzF0D0TQ1AYrg%3A1586876784354&ei=cNGVXqKbFc6j5OUP4JuUqA8&q=seletor+de+cores&oq=seletor+de+cores&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEc6BAgjECc6BAgAEEM6BQgAEIMBSi8IFxIrMGczODVnNTA0ZzM4MmcxMjJnNDE0ZzBnMzQ3ZzM5MGczODRnMzc5ZzQwMEobCBgSFzBnMWcxZzFnNGcxZzBnMWcxZzFnNWcxUMZ3WP-QAWC3kgFoAXADeAKAAfMDiAHTMZIBBjMtMTEuNZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwiik6LYmOjoAhXOEbkGHeANBfUQ4dUDCAw&uact=5)
 * Para ver mais fontes: [Fontes Google](https://fonts.google.com/)
    * Procurar pela Fonte
@@ -37,3 +41,4 @@ AULA | TEMPO | LINK | O QUE ENSINOU
 23 | 15:53 | [JavaScript com Objetos](https://www.youtube.com/watch?v=zfrX_VZ5Fb4&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=25) | **function** acendeLampada()/ **onclick="acendeLampada()"**/ **onmousemove="acendeLampada()"**/ **document.getElementById("")**/ **onmouseout=**"apagaLampada()"
 24 | 13:16 | [Funções JavaScript](https://www.youtube.com/watch?v=5fgd60pzKks&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=26) | Parametros nas Funções/ **if**/ **3** maneiras diferentes de fazer o codigo mais otimizado.
 25 | 19:01 | [Integrando JavaScript e HTML5](https://www.youtube.com/watch?v=UrIWMJIhwTU&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=27) | Voltando ao site Google Glass/ **onmouseover** (quando passa o mouse em cima)/ Formatação Padrão para as outras paginas.
+26 | 18:26 | [Documentos Adicionais](https://www.youtube.com/watch?v=fUFMHMWP9YM&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=28) | Configurando o arquivo _google-glass.html_ / **article**/ Ao inves de usar **br**, usar **margin-bottom: _px_**/ img src="" **alt="texto"** (texto alternativo)

@@ -1,6 +1,7 @@
-## Curso de HTML / CSS / JAVASCRIPT
-### Curso em video - [Gustavo Guanabara](https://github.com/gustavoguanabara)
-#### Folder em uso para o curso: [Google_Glass](https://github.com/GabrielRioo/Curso_em_Video/tree/master/Curso_HTML/Google_Glass)
+# Curso de HTML / CSS / JAVASCRIPT
+## Curso em video - [Gustavo Guanabara](https://github.com/gustavoguanabara)
+### Folder em uso para o curso: [Google_Glass](https://github.com/GabrielRioo/Curso_em_Video/tree/master/Curso_HTML/Google_Glass)
+#### CURSO FINALIZADO - DIA 22-04-2020
 ---
 * Tag Wrap - Extenção Visual Studio Code: 
    * `Ctrl` + `P`
@@ -52,3 +53,7 @@ AULA | TEMPO | LINK | O QUE ENSINOU
 34 | 21:44 | [Formulários em HTML5 (parte 2)](https://www.youtube.com/watch?v=lwuDJN9Udfc&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=37) | **form method="get"(fica na URL - mais rapido - buscas) "post" (nao fica na URL, vai por pacote - mais lento - senhas, cartão...) mailto="email"**/ **select name="" id=""** -> **option**(caixa de seleção com opções)/ **optgroup label="Região Sudeste"** (entre os options, para formar um grupo - visualmente tambem)/ input **list=""**/ **datalist id=""(com os options dentro)**(Te da as opçoes na hora de escrever)/ input **type="range" min="0" max="10" step="2"(pula de 2 em 2)** (Cria uma barra de arrastar)/ **textarea cols="45" rows="5"**(Uma caixa de mensagem maior de comentario)
 35 | 21:00 | [Como Hospedar um Site](https://www.youtube.com/watch?v=31eGheRQACI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=38) | [HostNet (hospedagem)](https://www.hostnet.com.br/hospedagem-de-sites/)
 36 | 16:55 | [Formulários com JavaScript](https://www.youtube.com/watch?v=YY5hqlcbfoI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=39) | input **type="checkbox"** / input **type="color" value="#0000FF"**/ input type="text" **readonly** (nao pode escrever, somente leitura)/ input **type="submit"**(botão)/ input **type="image" src=".png"**
+
+## TOTAL DE HORAS: 10h 22min _aproximadamente_
+
+

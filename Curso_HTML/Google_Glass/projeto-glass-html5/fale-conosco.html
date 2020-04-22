@@ -112,8 +112,15 @@
     
                     <fieldset id="mensagem">
                         <legend>Mensagem do Usuário</legend>
-                            <p><label for="cUrg">Grau de Urgência:</label></p>
-                            <p><label for="cMsg">Mensagem:</label></p>
+                            <p>
+                                <label for="cUrg">Grau de Urgência:</label>
+                                Min(0)<input type="range" name="tUrg" id="cUrg" min="0" max="10" step="1">Max(10) 
+                            </p>
+                            <p>
+                                <label for="cMsg">Mensagem:</label>
+                                <textarea name="tMsg" id="cMsg" cols="45" rows="5" placeholder="Deixe aqui sua mensagem..."></textarea>
+                            </p>
+
                     </fieldset>
     
                     <fieldset id="pedido">

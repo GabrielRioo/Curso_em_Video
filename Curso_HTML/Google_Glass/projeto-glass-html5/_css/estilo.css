@@ -35,7 +35,7 @@ a:hover {
 header#cabecalho img#icone {
     position: absolute;
     left: 780px;
-    top: 70px;
+    top: 50px;
     
 }
 
@@ -101,7 +101,7 @@ nav#menu ul{
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 300px;
+    left: 400px;
 }
 
 nav#menu li{
@@ -137,9 +137,7 @@ section#corpo {
     padding-right: 20px;
 }
 
-section#corpo-full {
-    
-}
+
 
 article#noticia-principal h2 {
     font-size: 12pt;

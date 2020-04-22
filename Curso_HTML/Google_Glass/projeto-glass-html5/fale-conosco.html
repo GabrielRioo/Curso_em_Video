@@ -38,7 +38,7 @@
                     </hgroup>
                 </header>
 
-                <from>
+                <form method="POST" id="fContato" action="mailto: gabrielpaivario@gmail.com">
                     <fieldset id="usuario">
                         <legend>Identificação do Usuário</legend>
                             <p>
@@ -69,10 +69,45 @@
     
                     <fieldset id="endereco"> 
                         <legend>Endereço do Usuário</legend>
-                            <p><label for="cRua">Logradouro:</label> <input type="text" name="tRua" id="cRua" size="70" maxlength="80" placeholder="Rua, Av, Trav"</p>
-                            <p><label for="cNum"> Número:</label> <input type="number" name="tNum" id="cNum" min="0" max="99999"></p>
-                            <p><label for="cEst">Estado:</label></p>
-                            <p><label for="cCid">Cidade:</label></p>
+                            <p>
+                                <label for="cRua">Logradouro:</label> 
+                                <input type="text" name="tRua" id="cRua" size="70" maxlength="80" placeholder="Rua, Av, Trav">
+                            </p>
+
+                            <p>
+                                <label for="cNum"> Número:</label> 
+                                <input type="number" name="tNum" id="cNum" min="0" max="99999">
+                            </p>
+
+                            <p>
+                                <label for="cEst">Estado:</label>
+                                <select name="tEst" id="cEst">
+
+                                    <optgroup label="Região Sudeste">
+                                        <option value="RJ">Rio de Janeiro</option>
+                                        <option value="SP">São Paulo</option>
+                                        <option value="MG">Minas Gerais</option>
+                                    </optgroup>
+
+                                    <optgroup label="Região Sul">
+                                        <option value="PR">Paraná</option>
+                                        <option value="SC">Santa Catarina</option>
+                                        <option value="RS">Rio Grande do Sul</option>
+                                    </optgroup>
+
+                                </select>
+                            </p>
+
+                            <p>
+                                <label for="cCid">Cidade:</label>
+                                <input type="text" name="tCid" id="cCid" maxlength="40" size="20" placeholder="Sua Cidade" list="cidades"/>
+                                <datalist id="cidades">
+                                    <option value="Rio de Janeiro"></option>
+                                    <option value="Nova Iguaçu"></option>
+                                    <option value="Niteroi"></option>
+                                    <option value="Belford Roxo"></option>
+                                </datalist>
+                            </p>
                     </fieldset>
     
                     <fieldset id="mensagem">
@@ -91,7 +126,7 @@
     
     
                     [BOTÃO ENVIAR]
-                </from>
+                </form>
             </article>
         </section>
         <footer id="rodape">

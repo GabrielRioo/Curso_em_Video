@@ -6,3 +6,20 @@ div#tv-radio {
     margin: auto;
     background: url("../_imagens/radio-tv.png") no-repeat;
 }
+
+audio#musica {
+    display: block;
+    position: relative;
+    left: 575px;
+    top: 488px;
+    width: 300px;
+}
+
+video#filme {
+    display: block;
+    position: relative;
+    left: 85px;
+    top: 70px;
+    width: 440px;
+    
+}

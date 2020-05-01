@@ -1,0 +1,39 @@
+<!-- Terminado -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste JavaScript</title>
+    <script>
+        var quebrada = false;
+        function mudaLampada(tipo){
+            if (!quebrada){
+                document.getElementById("luz").src = "_imagens/" + tipo + ".jpg";
+                if (tipo == 'lampada-quebrada'){
+                    quebrada = true;
+                }
+            }
+        }
+        // function apagaLampada(){
+        //     document.getElementById("luz").src = "_imagens/lampada-apagada.jpg";
+        // }
+        // function quebraLampada(){
+        //     document.getElementById("luz").src = "_imagens/lampada-quebrada.jpg";
+        // }
+    </script>
+</head>
+<body>
+    <h1>Testando JavaScript</h1>
+    <img src="_imagens/lampada-apagada.jpg" id="luz" onmousemove="mudaLampada('lampada-acesa')" onmouseout="mudaLampada('lampada-apagada')" onclick="mudaLampada('lampada-quebrada')">
+    <!-- <script>
+        // Envia um Alerta na tela ao carrega-la
+        // alert("Olá, Mundo!!"); 
+
+        // Escreve na tela com o document.write e mostra a data do navegador com o Date()
+        // document.write("Olá, hoje é dia: " + Date()); 
+
+        
+    </script> -->
+</body>
+</html>

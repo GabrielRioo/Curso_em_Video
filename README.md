@@ -4,4 +4,4 @@
 Professor: Gustavo Guanabara https://www.youtube.com/user/cursosemvideo
 
 #### 1° - Git / GitHub usando GitHub_Desktop - 01/04/2020 - [Clique Aqui](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-#### 2° - HTML - 03/04/2020 - [Clique Aqui](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
+#### 2° - HTML - 03/04/2020 - Término: 22/04/2020 [Clique Aqui](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)

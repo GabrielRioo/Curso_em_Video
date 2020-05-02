@@ -1,0 +1,16 @@
+n1 = int(input('Digite um n1: '))
+print(n1)
+n2 = float(input('Digite um n2: '))
+print(n2)
+# Sem valor dentro = False, valor dentro = True
+n3 = bool(input('Digite um n3: '))
+print(n3)
+n4 = str(input('Digite um n4: '))
+print(n4)
+
+n5 = (input('Digite um n5: '))
+print(type(n5))
+print('é numerico? ', n5.isnumeric())
+print('É alfabetico? ', n5.isalpha())
+print('É alfa numerico? ', n5.isalnum())
+print('Está somente com letras maiusculas? ', n5.isupper())

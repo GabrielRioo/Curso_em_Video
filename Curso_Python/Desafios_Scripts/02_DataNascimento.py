@@ -1,0 +1,5 @@
+input ("Informe o dia, mes e ano de seu nascimento.")
+dia = input("Dia: ")
+mes = input("Mes: ")
+ano = input("Ano: ")
+print("Você nasceu em: ", dia,"/", mes,"/", ano)

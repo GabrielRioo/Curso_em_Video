@@ -1,6 +1,7 @@
 # COMANDOS IMPORTANTES:
 ### OBS.: Nem todas essas informações fazem parte do Video assistido, e sim de ANOTAÇÕES *_PESSOAIS_* que fiz ao decorrer dos meus estudos.
-**Qualquer informação incorreta, se possivel, avisar** :smile:
+**Qualquer informação incorreta, se possivel, avisar** :smile: <br> <br>
+![Curso em Video](https://github.com/GabrielRioo/Curso_em_Video/blob/master/Curso_Git/curso-em-video-cor.png)
 * Visual Code
    * `Ctrl` + `click` em uma pastar com arquivo inexistente = Cria a pasta + o arquivo
    * No paramentro `src` - `Ctrl` + `Espaço` = Procura as pastas. 

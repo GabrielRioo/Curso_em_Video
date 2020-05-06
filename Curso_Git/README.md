@@ -1,6 +1,10 @@
 # COMANDOS IMPORTANTES:
 ### OBS.: Nem todas essas informações fazem parte do Video assistido, e sim de ANOTAÇÕES *_PESSOAIS_* que fiz ao decorrer dos meus estudos.
 **Qualquer informação incorreta, se possivel, avisar** :smile:
+* Visual Code
+   * `Ctrl` + `click` em uma pastar com arquivo inexistente = Cria a pasta + o arquivo
+   * No paramentro `src` - `Ctrl` + `Espaço` = Procura as pastas. 
+   <br>
 * Terminal
 
 Comando | O QUE FAZ
@@ -20,7 +24,7 @@ git config --global user.name "_seuNome_" | Configura o git com seu nome
 git config --global user.email "_seuEmail_" | Configura o git com seu email
 git config --global core.editor "_caminhoDoExecutavel_" | Configura o git com um Editor padrão
 code . | Abre o seu editor padrão
-git clone _https://..._ | Clona os arquivos do repositório para sua Maquina Local
+**git clone _https://..._** | Clona os arquivos do repositório para sua Maquina Local
 git init | Cria um novo repositório na pasta aberta(arquivo .git)
 git remote | Verifica se existe um repositório remoto
 git remote add origin _https://..._ | Linka seu repositório local com o GitHub
@@ -31,7 +35,7 @@ git reset HEAD | Remove um arquivo que ja foi adicionado(_caso não queira commi
 **git commit -m "_seuComentario_"** | Adiciona um comentário para a modificação
 git reset --hard _seuComentário_ | Volta para o Commit digitado e apaga os mais recentes
 git commit -am "_seuComentário_" | Adiciona e comenta ao mesmo tempo
-git log | Mostra todos os commits ja feitos, e seus codigos
+**git log** | Mostra todos os commits ja feitos, e seus codigos
 git log --oneline | Mostra os commits mais resumidos
 git log -- graph | Mostra o gráfico dos commits
 git log --oneline --graph | Mostra o gráfico e os commits resumidos
@@ -40,7 +44,9 @@ git log --oneline --graph | Mostra o gráfico e os commits resumidos
 **git fetch** | Busca por atualizações feitas no repositório do gitHub
 **git pull** | Atualiza seu repositório local com o que foi adicionado no gitHub
 git branch | Mostra todos os branch
-git branch _newBranch_ | Cria uma nova Branch(ramificação)
+**git branch _newBranch_** | Cria uma nova Branch(ramificação)
+**git branch -d _nomeBranch_** | Deleta uma branch
+git branch -D _nomeBranch_ | Deleta FORÇADO uma branch
 git push origin _newBranch_ | Envia para o gitHub a nova Branch
 git push -u origin _newBranch_ | Envia para o gitHub a nova Branch
 git switch _nomeBranch_ | Troca de Branch

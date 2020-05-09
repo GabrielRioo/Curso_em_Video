@@ -29,6 +29,10 @@
 - [ ] Receber pagamentos
 
 #### Tabelas:
+:--- = Alinhar para Esquerda <br>
+:---: = Alinhar no Meio <br>
+---: = Alinhar na Direita <br>
+
 Numero | Nome | Nota
 ---|---|---
 1 | Gabriel | 9,5
@@ -50,6 +54,9 @@ else:
 :hand: :monkey: :octocat: 
 - [Site de Emoji para por em Issues](https://emojipedia.org/)
 - [Respositorio de Emojis - ikatyang ](https://github.com/ikatyang/emoji-cheat-sheet)
+
+#### Imagens:
+![nome](url da imagem)
 
 
 

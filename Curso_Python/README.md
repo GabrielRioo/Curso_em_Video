@@ -1,6 +1,9 @@
 ### Curso de Python 
 #### Curso em Video - professor: Gustavo Guanabara
 ---
+* Comentar e descomentar linhas PYCHARM - `Crtl + /`
+
+---
 AULA | TEMPO | LINK | O QUE ENSINOU
 :---:|:---:|:---|:---
 01 | 29:06 | [Seja um Programador](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&index=2) | Introdução ao Curso e a linguagem Python.
@@ -11,4 +14,4 @@ AULA | TEMPO | LINK | O QUE ENSINOU
 05.1 | 12:30 | [Exercício Python #001 - Deixando tudo pronto](https://www.youtube.com/watch?v=nIHq1MtJaKs) | **PyCharm** <br> Botão direito na pasta <br> new -> Python File <br> `msg = "Olá, Mundo!"`<br> `print(msg)`
 05.2 | 4:46 | [Exercício Python #002 - Respondendo ao Usuário](https://www.youtube.com/watch?v=FNqdV5Zb_5Q) | **.format()** <br> `nome = input("Digite seu nome: ")` <br> `print("É um prazer te conhecer,", nome)` <br> **`print("Outra forma de fazer, {}!" .format(nome))`**
 06 | 29:40 | [Tipos Primitivos e Saída de Dados](https://www.youtube.com/watch?v=hdDHg1p3YVc) | **Aspas simples para String.** <br> **Conversão de TIPOS** <br> **int(inteiro), float(real), bool(True e False) e str(caracteres)** <br>**`n1 = int(input('Digite um numero: '))`** <br> **`print(type(n1))`** - Mostra o tipo primitivo da variável. <br> **#** - Comentário <br> **isnumeric()** - se é possivel converter o valor em um numero com tipo int<br> `print(num.isnumeric())` <br> **isalpha()** - se é Letra <br> isalnum() <br> **isupper()** - Está somente com letras maiusculas?
-07 | 40:23 | [Curso Python #07 - Operadores Aritméticos](https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=12) | 
+07 | 40:23 | [Curso Python #07 - Operadores Aritméticos](https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=12) | **Operadores:** <br> `5**2` ou `pow(5,2)`= Potência <br> `//` = Divisão inteira (nao tem resultado flutuante) <br> `81**(1/2)` = Raiz Quadrada <br> **Espaçamentos .format** <br> `{:20}` = 20 caracteres de espaço. <br> `{:>20}` - Alinhado a Direita a 20 espaços <br> `{:<20}` - Alinhado a Esquerda a 20 espaços <br> `{:^20}` - alinhado ao Centro a 20 espaços <br> `{:.3f}` - Define a quantidade de numeros depois da virgula <br> `, end=''` - No final do print, para nao quebrar linha  <br> `\n` - Quebra linha dentro do print <br> `print('-' * 12`) = 12 traços

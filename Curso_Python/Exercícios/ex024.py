@@ -1,0 +1,1 @@
+# Crie um progrAma que leia o nome de uma cidade  diga se ela começa oU nao com o nome 'SANTO'

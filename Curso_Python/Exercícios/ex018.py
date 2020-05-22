@@ -7,3 +7,4 @@ print('O angulo de {} tem o SENO de {:.2f}'.format(num, sin(radians(num))))
 print('O angulo de {} tem o COSSENO de {:.2f}'.format(num, cos(radians(num))))
 print('O angulo de {} tem o TANGENTE de {:.2f}'.format(num, tan(radians(num))))
 
+

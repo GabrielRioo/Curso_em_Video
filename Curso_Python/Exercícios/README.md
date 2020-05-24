@@ -32,3 +32,80 @@ Exercicio | Enunciado
 **AULA 09**
 [022](https://www.youtube.com/watch?v=EQQt-6QqXOs&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=32) | Crie um programa que leia o nome completo de uma pessoa e mostre: O nome com todas as letras em maiusculo. O nome com todas minusculas. Quandas letras ao Total(sem considerar espaços). Quantas letras tem o primeiro nome
 [023](https://www.youtube.com/watch?v=wD2aerLMBWA&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=33) | Faça um programa que leia um numero de 0 a 9999 e mostre na tela cada um dos digitos separados. Ex: Digite um numero: 1834. Unidade: 4 dezena: 3 centena: 8 milhar: 1. Como string e matematicamente
+[024] | Crie um programa que leia o nome de uma cidade  diga se ela começa ou nao com o nome 'SANTO'
+[025] | Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome. Em qualquer lugar tenha o silva. Retornar true ou false
+[026] | Faça um programa que leia um frase pelo teclado e mostre: Quantas vezes aparece a letra "A". Em que posição ela aparece a primeira vez. Em que posição ela aparece a ultima vez.
+[027] | Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o ultimo nome separadamente. Exemplo: Ana Maria de Souza. Primeiro: Ana. Ultimo: Souza
+[028] | Escreva um programa que faça o computador "pensar" em um numero inteiro entra 0 e 5 e peça para o usuario tenta descobrir quela foi o numero escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+[029] | Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ee foi multado. A multa vai custar R$7,00 por cada km acima do limite
+[030] | Crie um programa que leia um numero inteiro qualquer e mostre na tela se ele é PAR ou IMPAR
+[031] | Desenvolva um programa que pergunte a distancia de uma viagem em km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200km e R$0,45 para viagens mais longas
+[032] | Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO
+[033] | Faça um programa que leia tres numeros e mostre qual é o maior e qual é o menor
+[034] | Escreva um programa que pergunte o salario de um funcionario e calcule o valor do seu aumento. Para salarios superiores a R$1250,00, calcule um aumento de 10%. Para as inferiores ou iguais, o aumento é de 15%
+[035] | Desenvolva um programa que leia o comprimeto de tres retas e diga ao usuario se elas podem ou nao formar um triangulo
+[036] | 
+[037] | 
+[038] | 
+[039] | 
+[040] | 
+[041] | 
+[042] | 
+[043] | 
+[044] | 
+[045] | 
+[046] | 
+[047] | 
+[048] | 
+[049] | 
+[050] | 
+[051] | 
+[052] | 
+[053] | 
+[054] | 
+[055] | 
+[056] | 
+[057] | 
+[058] | 
+[059] | 
+[060] | 
+[061] | 
+[062] | 
+[063] | 
+[064] | 
+[065] | 
+[066] | 
+[067] | 
+[068] | 
+[069] | 
+[070] | 
+[071] | 
+[072] | 
+[073] | 
+[074] | 
+[075] | 
+[076] | 
+[077] | 
+[078] | 
+[079] | 
+[080] | 
+[081] | 
+[082] | 
+[083] | 
+[084] | 
+[085] | 
+[086] | 
+[087] | 
+[088] | 
+[089] | 
+[090] | 
+[091] | 
+[092] | 
+[093] | 
+[094] | 
+[095] | 
+[096] | 
+[097] | 
+[098] | 
+[099] | 
+[100] | 
